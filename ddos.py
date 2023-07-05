@@ -3,7 +3,7 @@ import sys
 os.system("clear")
 os.system( "toilet -f mono9 -F gay Ping Attack")
 print
-print  'Author  :  overthe(1577)'
+print  'Author  :  channel telegram @team1577'
 print
 print  'Github : https://github.com/overthe1577 '
 print  
